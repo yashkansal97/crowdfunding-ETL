@@ -1,7 +1,7 @@
 # crowdfunding-etl
 <br>
 *Project Description*<br>
-Our team practiced building an ETL pipeline using Python, Pandas, and used Python dictionary and RegEx methods to extract and transform the data. After transforming the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
+Our team practiced building an ETL pipeline using Python, Pandas, and used Python dictionary and RegEx methods to extract and transform the data. After transforming the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.<br>
 <br>
 *Contributors*<br>
 - Yash Kansal<br>
